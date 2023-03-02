@@ -1,2 +1,2 @@
-# spring-integration-api
-spring-integration-api
+# spring-boot-paypal-example
+How to perform payment integration using paypal
